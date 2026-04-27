@@ -33,7 +33,7 @@
         <short_description>SNU1024 Lab Helper</short_description>
         <size>md</size>
         <sp_column display_value="100">cdefd63f5314431033ae56a0a0490e2e</sp_column>
-        <sp_widget display_value="SNU1024 Lab Helper">a1b2c3d4e5f647001234567890abcde1</sp_widget>
+        <sp_widget display_value="">a1b2c3d4e5f647001234567890abcde1</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-24 02:43:47</sys_created_on>

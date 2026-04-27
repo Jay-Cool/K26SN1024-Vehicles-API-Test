@@ -9,7 +9,7 @@
         <name>SNU1024 Lab Helper - Container 100</name>
         <order>100</order>
         <semantic_tag/>
-        <sp_page display_value="snu1024_lab_helper">a1b2c3d4e5f647001234567890abcde2</sp_page>
+        <sp_page display_value="">a1b2c3d4e5f647001234567890abcde2</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>admin</sys_created_by>
